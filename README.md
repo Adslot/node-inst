@@ -1,3 +1,5 @@
+:no_entry: **Note: This module is deprecated and no longer supported.**
+
 node-inst
 =========
 
